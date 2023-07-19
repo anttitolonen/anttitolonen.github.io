@@ -33,9 +33,9 @@ plugins:
   - jemoji
 
 disqus:
-    shortname: github-pages-antti-tolonen-test
+    shortname: github-pages-antti-tolonen
 
-url: "https://anttitolonen.github.io/pages-test"
+url: "https://anttitolonen.github.io"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
